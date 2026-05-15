@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Create Spring Boot backend project structure with dependencies",
+    "activeForm": "creating backend",
+    "status": "completed"
+  },
+  {
+    "content": "Create entity models (Patient, Doctor, Appointment, etc.)",
+    "activeForm": "entities",
+    "status": "in_progress"
+  },
+  {
+    "content": "Create repositories and services",
+    "activeForm": "services",
+    "status": "pending"
+  },
+  {
+    "content": "Create REST controllers with security",
+    "activeForm": "controllers",
+    "status": "pending"
+  },
+  {
+    "content": "Create React frontend project structure",
+    "activeForm": "frontend structure",
+    "status": "pending"
+  },
+  {
+    "content": "Create React components and pages",
+    "activeForm": "react components",
+    "status": "pending"
+  },
+  {
+    "content": "Create configuration files (application.properties, package.json)",
+    "activeForm": "config files",
+    "status": "pending"
+  },
+  {
+    "content": "Create database schema and README documentation",
+    "activeForm": "documentation",
+    "status": "pending"
+  }
+]
